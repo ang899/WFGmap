@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFGmap", "WFGmap.csproj", "{2598FF2A-4377-457E-9951-690AE02E4FA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2598FF2A-4377-457E-9951-690AE02E4FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2598FF2A-4377-457E-9951-690AE02E4FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2598FF2A-4377-457E-9951-690AE02E4FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2598FF2A-4377-457E-9951-690AE02E4FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A3AD3ED-B773-439B-990F-F8C883CF6038}
+	EndGlobalSection
+EndGlobal

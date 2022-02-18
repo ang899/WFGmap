@@ -1,6 +1,6 @@
 # WFGmap
 Учебный проект на WinForms с использованием  библиотеки Gmap.
-
+![Image alt](https://github.com/ang899/WFGmap/raw/master/screenshot.PNG)
 # Технологии
 * C#
 * .NET 
